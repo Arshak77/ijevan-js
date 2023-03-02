@@ -1,5 +1,3 @@
-const b = 8
+const b = 8;
 
-console.log(b + 12)
-
-console.log("Hello")
+console.log(b + 12);

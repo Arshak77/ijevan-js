@@ -1,3 +1,3 @@
-console.log("Hello World")
+console.log("Hello World");
 
-const a = 5
+const a = 5;
